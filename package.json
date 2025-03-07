@@ -1,5 +1,5 @@
 {
-  "name": "brian-mcp-server",
+  "name": "mcp-server-brian",
   "module": "src/index.ts",
   "type": "module",
   "devDependencies": {
